@@ -658,7 +658,7 @@ textarea:hover {
 }
 
     .btn {
-   display: block;
+   display: none;
     height: 22px;
     line-height: 22px;
     padding: 0 25px;
